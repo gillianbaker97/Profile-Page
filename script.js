@@ -2,7 +2,9 @@ var OneClick = document.querySelector('.text-block2');
 
 var click = function myFunction(event){
     event.preventDefault();
-    window.location.replace("pwgen.html");
+    location.href = 'file:///Users/gillianbaker/Desktop/Coding-Quiz-Challenge/startpg.html';
 };
 
-OneClick.addEventListener("click", myFunction);
+OneClick.addEventListener("click", click);
+
+
