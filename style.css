@@ -79,7 +79,7 @@ img {
     height: 400px;
     opacity: 1;
     filter: alpha(opacity=100);
-    background: url(https://images.unsplash.com/photo-1577017040065-650ee4d43339?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) no-repeat;
+    background: url( ./Project1.png) no-repeat;
     background-size: 1200px;
     margin-left: 225px;
     margin-top: -900px;
@@ -92,7 +92,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     filter: alpha(opacity=100);
-    background: url(https://images.unsplash.com/photo-1550537687-c91072c4792d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHBhdHRlcm58ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60) no-repeat;
+    background: url(./PasswordGen.png) no-repeat;
     background-size: 1200px;
     margin-left: 225px;
     margin-top: -50px; 
@@ -106,7 +106,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     filter: alpha(opacity=100);
-    background: url(https://images.unsplash.com/photo-1586073305502-5c5cc4a594bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=654&q=80) no-repeat;
+    background: url(./SchedulePlan.png) no-repeat;
     background-size: 1200px;
     margin-left: 825px;
     margin-top: -240px; 
@@ -121,7 +121,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     filter: alpha(opacity=100);
-    background: url(https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fG9jZWFufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60) no-repeat;
+    background: url(./ReadMEgen.png) no-repeat;
     background-size: 1200px;
     margin-left: 225px;
     margin-top: 25px; 
@@ -135,7 +135,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     filter: alpha(opacity=100);
-    background: url(https://images.unsplash.com/photo-1531165424588-80b93de6f807?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80) no-repeat;
+    background: url(./SQL.png) no-repeat;
     background-size: 1200px;
     margin-left: 825px;
     margin-top: -240px; 
@@ -193,7 +193,7 @@ img {
     padding-left: 20px;
     padding-right: 20px;
     margin-left: 400px;
-    margin-right: 700px;
+    margin-right: 800px;
     margin-top: -100px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: small;
